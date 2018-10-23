@@ -48,7 +48,8 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![ayititouriste_complete_2](https://user-images.githubusercontent.com/40280397/47382894-6113da00-d6d1-11e8-82da-3e0ccbe431ee.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
